@@ -1,0 +1,18 @@
+.description {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.title {
+    margin: 0 auto;
+    font-size: 48px;
+    color: rgba(148, 173, 248, 0.783);
+}
+
+.text {
+    margin: 0 auto;
+    font-style: italic;
+    font-size: 32px;
+    
+}

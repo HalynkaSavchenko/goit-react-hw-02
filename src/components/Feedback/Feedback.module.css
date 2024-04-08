@@ -1,0 +1,18 @@
+.good {
+    font-size: 28px;
+    color: var(--good-color);
+}
+
+.neutral {
+    font-size: 28px;
+    color: var(--neutral-color);
+}
+
+.bad {
+    font-size: 28px;
+    color: var(--bad-color);
+}
+
+.total, .positive {
+    font-size: 28px;
+}
